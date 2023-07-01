@@ -204,4 +204,4 @@ async function runCommand(message, folderPath, reason) {
 		channel.send(`Process exited with code \`${code}\`.`).catch(() => {});
 	});
 }
-client.login('MTEyNDU4ODk5NzUwMzYxNTA3OA.GHfObn.fP2j0nS9TdQXSc7MA3qw4-2RXGOstk2EBD1QNA');
+client.login('TOKEN');
